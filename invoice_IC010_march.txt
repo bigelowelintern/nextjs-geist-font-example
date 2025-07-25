@@ -1,0 +1,2 @@
+This is a test document for IC010 (ICIF category).
+Invoice details would be here in a real scenario.
